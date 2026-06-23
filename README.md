@@ -40,8 +40,8 @@ Chatt is a real-time messaging app built with React, Vite, TypeScript, Tailwind 
 ### 1. Clone the repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/LysaKrysa/Chatt/tree/main
+cd Chatt
 ```
 
 ### 2. Install dependencies
