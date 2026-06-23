@@ -27,11 +27,11 @@ Chatt is a real-time messaging app built with React, Vite, TypeScript, Tailwind 
 
 ## Demo 📸
 
-| Preview | Asset |
-|---------|-------|
-| <img src="./assets/profile.png" alt="Chatt banner" width="420"> | `assets/banner.svg` |
-| <img src="./assets/chat.png" alt="Chatt chat demo" width="420"> | `assets/demo-chat.svg` |
-| <img src="./assets/admin.png" alt="Chatt admin demo" width="420"> | `assets/demo-admin.svg` |
+| Preview |
+|---------|
+| <img src="./assets/profile.png" alt="Chatt banner" width="420"> |
+| <img src="./assets/chat.png" alt="Chatt chat demo" width="420"> |
+| <img src="./assets/admin.png" alt="Chatt admin demo" width="420"> |
 
 ---
 
