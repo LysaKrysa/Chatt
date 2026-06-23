@@ -1,5 +1,5 @@
 # Chatt 💬
-![Chatt Banner](./assets/banner.svg)
+![Chatt Banner](./assets/banner.png)
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org/)
