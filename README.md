@@ -27,15 +27,11 @@ Chatt is a real-time messaging app built with React, Vite, TypeScript, Tailwind 
 
 ## Demo 📸
 
-![Chatt Chat Demo](./assets/demo-chat.svg)
-![Chatt Admin Demo](./assets/demo-admin.svg)
-
-
-| File | Replace it with |
-|------|-----------------|
-| `assets/banner.svg` | A wide branded banner showing the Chatt logo/name and a polished preview of the chat UI. Recommended size: `1280x420`. |
-| `assets/demo-chat.svg` | A screenshot or GIF of the main chat screen with the friends list, a selected conversation, messages, reactions, and attachments visible. |
-| `assets/demo-admin.svg` | A screenshot or GIF of the admin dashboard, settings page, or moderation tools. Use this to show the app has more than basic chat. |
+| Images |
+|------|
+| `assets/chat.png` |
+| `assets/profile.png` |
+| `assets/admin.png` |
 
 ---
 
