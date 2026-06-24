@@ -1,4 +1,3 @@
-# Chatt 💬
 ![Chatt Banner](./assets/banner.png)
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
