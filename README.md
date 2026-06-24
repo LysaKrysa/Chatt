@@ -368,4 +368,4 @@ Contributions are welcome. Open an issue for bugs or feature ideas, or fork the 
 
 ## License 📝
 
-Add a `LICENSE` file before publishing this repository publicly. If you want this to match your other projects, MIT is a good default for a small open-source app.
+[LICENSE](License)
